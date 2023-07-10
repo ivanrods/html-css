@@ -9,7 +9,7 @@ html{
     font-size: lem;
 }
 header{
-    background-color: darkgray;
+    background-color: rgb(213, 208, 208);
 }
 header > h1{
     text-align: center;
